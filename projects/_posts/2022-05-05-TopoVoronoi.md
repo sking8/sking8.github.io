@@ -4,10 +4,10 @@ permalink: /TopoVoronoi/
 title: "Cellular Topology Optimization on Differentiable Voronoi Diagrams"
 ---
 ## Cellular Topology Optimization on Differentiable Voronoi Diagrams
-In Submission<br>
+International Journal for Numerical Methods in Engineering (IJNME)<br>
 
 <a href="https://sking8.github.io/"><b>Fan Feng</b></a>, <a href="https://shiyingxiong.github.io/">Shiying Xiong</a>, <a href="https://www.ziyueliu.space/">Ziyue Liu</a>, Zangyueyang Xian, <a href="http://www-personal.umich.edu/~yuqingz/">Yuqing Zhou</a>, Hiroki Kobayashi, Atsushi Kawamoto, Tsuyoshi Nomura, <a href="https://cs.dartmouth.edu/~bozhu/">Bo Zhu</a><br>
-<b>[<a href="https://arxiv.org/pdf/2204.10313.pdf">paper</a>][<a href="https://youtu.be/pXEM0PZKp48">video</a>]</b>
+<b>[<a href="https://arxiv.org/pdf/2204.10313.pdf">paper</a>][<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7121">Wiley Online Library</a>][<a href="https://youtu.be/pXEM0PZKp48">video</a>]</b>
 
 <img src="../../../assets/img/paper/topo_voronoi.png" alt="topo_voronoi">
 
